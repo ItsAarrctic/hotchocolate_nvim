@@ -3,8 +3,8 @@
 Hotchocolate nvim is an nvim theme I made for coding.
 
 ## Here are the tools I used to make it:
-- Coolors ([Clickable Text](coolors.io))
-- Vimcolors ([Clickable Text](vimcolors.org))
+- Coolors ([coolors.io](coolors.io))
+- Vimcolors ([vimcolors.org](vimcolors.org))
 
 ## How to install
 If you don't have neovim installed install it!
