@@ -9,8 +9,8 @@ Hotchocolate nvim is an nvim theme I made for coding.
 ## How to install
 If you don't have neovim installed install it!
 Before installing bear in mind that this will clear your neovim config.
-```bash git clone https://github.com/ItsAarrctic/hotchocolate_nvim.git .```
-```bash rm .config/nvim && mv hotchocolate_nvim/nvim .config```
+```git clone https://github.com/ItsAarrctic/hotchocolate_nvim.git .```
+```rm .config/nvim && mv hotchocolate_nvim/nvim .config```
 Then start neovim and hotchocolate_nvim should be loaded!
 
 ## Screenshots
