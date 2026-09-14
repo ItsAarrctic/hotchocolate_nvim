@@ -3,7 +3,7 @@ syntax reset
 let g:colors_name = "hotchocolate"
 set background=dark
 set t_Co=256
-hi Normal guifg=#f4c095 ctermbg=NONE guibg=#4a4a4a gui=NONE
+hi Normal guifg=#f4c095 ctermbg=NONE guibg=#00000f gui=NONE
 
 hi DiffText guifg=#585191 guibg=NONE
 hi ErrorMsg guifg=#585191 guibg=NONE
@@ -63,7 +63,7 @@ hi Pmenu guifg=#f4c095 guibg=#454545
 hi SignColumn guibg=#4a4a4a
 hi Title guifg=#f4c095
 hi LineNr guifg=#ab5712 guibg=#4a4a4a
-hi NonText guifg=#c481ff guibg=#4a4a4a
+hi NonText guifg=#c481ff guibg=#00000f
 hi Comment guifg=#c481ff gui=italic
 hi SpecialComment guifg=#c481ff gui=italic guibg=NONE
 hi CursorLine guibg=#454545
